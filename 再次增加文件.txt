@@ -5,3 +5,4 @@
 
 
 测试本地不需要先checkout就能直接pull
+  测试本地的checkout是否直接替代pull的拉功能
