@@ -1,3 +1,7 @@
-我在Github服务器端修改了内容\n 本地需要给git checkout . 更新
+﻿我在Github服务器端修改了内容\n 本地需要给git checkout . 更新
 
    我又修改了   测试本地是否需要先checkout 在pull
+
+
+
+测试本地不需要先checkout就能直接pull
